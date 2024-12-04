@@ -1,0 +1,161 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+
+}
+.box{
+
+    height: 100%;
+}
+.header{
+
+    width: 100%;
+    background: white;
+    height: 60px;
+
+    display: flex;
+    justify-content: space-between;
+}
+.header-l{
+
+    color: #616161;
+
+    display: flex;
+}
+img{
+
+    height: 40px;
+}
+select{
+
+    margin-top: 10px;
+    margin-left: 55px;
+    border: none;
+    color: #676767;
+    background-color: #ffffff00;
+    font-size: medium;
+}
+.smthng-1{
+
+    margin-left: 55px;
+    margin-top: 10px;
+}
+.header-r{
+
+
+    display: flex;
+}
+.header-r i{
+
+    margin-top: 12px;
+}
+.login{
+
+    margin-left: 10px;
+    border-radius: 7px;
+    padding: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-bottom: 16px;
+    
+}
+.header-r .botton{
+
+    margin-left: 10px;
+    border: solid #863a9b 2px;
+    border-radius: 7px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 16px;
+}
+a{
+    text-decoration: none;
+    color: #863a9b;
+    font-weight: 600;
+}
+.body{
+
+    padding-left: 50px;
+    background-color: #f3f3f3;
+    height: 100%;
+    padding-bottom: 20px;
+
+    display: flex;
+}
+.left{
+
+    height: 100%;
+    width: 700px;
+}
+.path a{
+
+    padding: 1px;
+
+}
+.path{
+
+    margin-top: 80px;
+}
+.path .t-i-f{
+
+    padding: 19px;
+    padding-right: 32px;
+    padding-left: 32px;
+    color: white;
+    background-color: #863a9b;
+    border-radius: 10px;
+}
+.path .c-a-e{
+
+    padding: 19px;
+    padding-right: 32px;
+    padding-left: 32px;
+}
+.right{
+
+    display: flex;
+}
+.main{
+    margin-top: 170px;
+    font-size: 46px;
+    font-weight: 600;
+}
+.sub{
+
+    font-size: 21.5px;
+    margin-top: 60px;
+    width: 600px;
+    line-height: 1.5;
+    color: #5e5e5e;
+}
+
+
+.right img{
+
+    height: 220px;
+    width: 355px;
+    border-radius: 10px;
+    box-shadow: -5px 10px 20px #b6b6b6;
+}
+
+.image1 img{
+
+    margin-top: 90px;
+}
+.image2 img{
+
+    margin-top: 28px;
+    
+}
+.image3 img{
+
+    margin-top: 165px;
+    margin-left: 32px;
+}
+.image4 img{
+
+    margin-top: 28px;
+    margin-left: 32px;
+}

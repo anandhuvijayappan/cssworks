@@ -1,0 +1,29 @@
+body{
+
+    display: flex;
+    justify-content: center;
+}
+.card{
+
+    border: solid 2px black;
+    padding: 40px;
+    padding-top: 100px;
+    width: 509px;
+    height: 600px;
+    border-radius: 10px;
+
+
+
+}
+
+img{
+
+    height: 400px;
+    width: 509px;
+}
+
+p{
+    color: rgb(83, 83, 83);
+    font-size:x-large;
+    text-align: left;
+}

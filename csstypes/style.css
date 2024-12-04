@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+
+}
+span{
+    color: rgb(0, 92, 128);
+    text-decoration: none;
+    text-align: center;
+}
+
+#first{
+
+    color: rgb(5, 10, 255);
+}
+
+#second{
+
+    color: rgb(1, 2, 91);
+}
